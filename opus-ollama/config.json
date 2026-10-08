@@ -1,0 +1,17 @@
+{
+  "default_profile": "cloud",
+  "profiles": {
+    "local": {
+      "model": "",
+      "host": "http://localhost:11434"
+    },
+    "cloud": {
+      "model": "gpt-oss:20b",
+      "host": "https://ollama.com",
+      "api_key_env": "OLLAMA_API_KEY",
+      "env_file": "~/.env"
+    }
+  },
+  "timeout_sec": 300,
+  "max_output_tokens": 16000
+}

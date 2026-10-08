@@ -1,0 +1,9 @@
+demo/
+demo2/
+prompts.txt
+docs/superpowers/plans/
+__pycache__/
+*.pyc
+.DS_Store
+ARTICLE.md
+TWEET.md
