@@ -1,0 +1,11 @@
+{
+  "name": "opus-ollama",
+  "version": "0.1.0",
+  "description": "Opus plans and reviews like opusplan, but a cheap tool-less Ollama model (local or cloud) writes the code and tests and a stdlib-only script runs them.",
+  "author": { "name": "Sreeju Ramakrishna", "url": "https://github.com/rsreeju" },
+  "homepage": "https://github.com/rsreeju/opus-ollama",
+  "repository": "https://github.com/rsreeju/opus-ollama",
+  "license": "MIT",
+  "keywords": ["claude-code", "skill", "ollama", "opusplan", "workflow"],
+  "skills": "./"
+}
